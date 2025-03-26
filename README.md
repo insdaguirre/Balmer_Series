@@ -50,10 +50,13 @@ The goal of this experiment was to **measure and analyze the spectral lines of h
 
 2. **Data Analysis in R**  
    - Observed wavelengths were compared with theoretical predictions from the Balmer formula:
-     \[
-     \frac{1}{\lambda} = R_H \left(\frac{1}{2^2} - \frac{1}{n^2} \right)
-     \]
-     where \( R_H \) is the **Rydberg constant** and \( n \) is the principal quantum number.
+
+   $$
+   \frac{1}{\lambda} = R_H \left(\frac{1}{2^2} - \frac{1}{n^2} \right)
+   $$
+
+   where \( R_H \) is the **Rydberg constant** and \( n \) is the principal quantum number.
+
 
 3. **Results & Validation**  
    - The calculated wavelengths were compared with expected Balmer Series values.
