@@ -2,6 +2,8 @@
 
 This repository contains experimental data and analysis related to the **Balmer Series** of hydrogen, obtained using a **spectrometer**. The Balmer Series consists of the visible spectral lines emitted by hydrogen atoms as electrons transition to the second energy level.
 
+The final report for this project is accessible [here](Balmer_Series.pdf)
+
 ---
 
 ## 🔬 Project Overview
